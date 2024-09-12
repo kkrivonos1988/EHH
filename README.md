@@ -1,2 +1,2 @@
 # EHH
-Ech-Hamburg Projekt Terraform
+Echt-Hamburg Projekt Terraform
