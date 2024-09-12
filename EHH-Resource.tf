@@ -4,7 +4,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "EHH" {
-  name     = "KK-terraform-rg2020"
+  name     = "KK-terraform-EHH"
   location = "West Europe"
 }
 
